@@ -1,0 +1,35 @@
+About the data set (Employee data)
+The dataset contains information about employees. The aim is to find which employees might undergo attrition.
+Attribute information:
+
+Age: Age of the employee
+
+BusinessTravel: How much travel is involved in the job for the employee:No Travel, Travel Frequently, Tavel Rarely
+
+Department: Department of the employee: Human Resources, Reserach & Development, Sales
+
+Commute: Number of miles of daily commute for the employee
+
+Education: Employee education field: Human Resources, Life Sciences, Marketing, Medical Sciences, Technical, Others
+
+EnvironmentSatisfaction: Satisfaction of employee with office environment
+
+Gender: Employee gender
+
+JobInvolvement: Job involvement rating
+
+JobLevel: Job level for employee designation
+
+JobSatisfaction: Employee job satisfaction rating
+
+MonthlyIncome: Employee monthly salary
+
+OverTime: Has the employee been open to working overtime: Yes or No
+
+PercentSalaryHike: Percent increase in salary
+
+PerformanceRating: Overall employee performance rating
+
+YearsAtCompany: Number of years the employee has worked with the company
+
+Attrition: Employee leaving the company: Yes or No
