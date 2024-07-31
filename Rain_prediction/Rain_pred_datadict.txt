@@ -1,0 +1,19 @@
+The data definition is as follows:
+
+Obs_Id: Observation Id
+
+Rainfall: Rainfall recorded in a day (in mm)
+
+Evaporation: Number of field goals made
+
+Sunshine: Number of hours of bright sunshine per day
+
+Temp: Temperature in degree C
+
+Wind_Speed: Average speed of the wind in km/hour
+
+Humidity: Humidity in percentage (%)
+
+Pressure: Atmospheric pressure in hpa (hecto Pascals)
+
+Rain Tomorrow: Whether it will rain or not(0 = No, it won't rain tomorrow, 1 = Yes, it will rain tomorrow) (target/dependent variable)
