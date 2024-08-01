@@ -1,0 +1,21 @@
+Our objective is to predict whether the customer has closed the bank account or not.
+
+The data definition is as follows:
+
+CreditScore: Credit score of the customer
+
+Geography: Resident country of the customer
+
+Gender: Gender of the customer
+
+Age: Age of the customer
+
+NumOfYrsWithBank: Years for which the customer has been with the bank
+
+Balance: Bank balance of the customer in Euro
+
+NumOfProducts: Number of bank facilities for which customer has opted
+
+HasCrCard: Whether the customer has credit card or not (1 = Yes, 0 = No)
+
+Closed_Acc: Whether the customer has closed the bank account or not (1 = Yes, 0 = No) (target/dependent variable)
